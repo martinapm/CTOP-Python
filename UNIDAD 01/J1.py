@@ -1,3 +1,5 @@
-import math 
+import math
 
-math.sqrt(25)
+numero = 25
+raiz_cuadrada = math.sqrt(numero)
+print(raiz_cuadrada)
