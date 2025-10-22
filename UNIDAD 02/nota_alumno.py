@@ -5,5 +5,5 @@ nota3 = float(input("Introduce la tercera nota: "))
 
 media = (nota1 + nota2 + nota3) / 3
 
-print(f"Las notas introducidas son: {nota1}, {nota2}, {nota3}")
-print(f"La nota media es: {media:.2f}")
+print("Las notas introducidas son: {nota1}, {nota2}, {nota3}")
+print("La nota media es: {media}")
