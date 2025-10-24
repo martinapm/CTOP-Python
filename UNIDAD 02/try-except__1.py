@@ -7,3 +7,8 @@ try:
     f.write("Hola, ke hase")
 except IOError as e:
     print("Ocurrió un error:", e)
+else:
+    print("Fichero escrito correctamente")
+finally:
+    f.close()
+    
