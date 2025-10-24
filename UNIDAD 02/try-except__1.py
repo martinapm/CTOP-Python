@@ -2,7 +2,7 @@
 texto = " " 
 
 try:
-    f = open("archivo.txt", "w")
+    f = open("archivo3.txt", "r")
     #texto = f.read()
     f.write("Hola, ke hase")
 except IOError as e:
