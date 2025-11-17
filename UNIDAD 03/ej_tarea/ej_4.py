@@ -1,5 +1,5 @@
 # Autor: Martina Pérez Muñoz
-# Fecha: 15/11/2025
+# Fecha: 17/11/2025
 # Descripción: Calcula el área de un rectángulo tras corregir errores del código original.
 # Ejemplo:
 # Entrada: base = 5, altura = 3
